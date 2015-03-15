@@ -4,6 +4,7 @@ author: "Maashu C"
 date: "March 15, 2015"
 output: html_document
 keep_md: true
+self_contained: true
 ---
 
 ### Data Loading, Cleaning, and Exploratory Analysis
